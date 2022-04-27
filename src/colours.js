@@ -60,7 +60,6 @@ const colours = {
     },
   },
   facialHair: {
-
     pink: {
       base: '#ffd1dc',
       shadow: '#ffc0cb',
@@ -91,7 +90,6 @@ const colours = {
     },
   },
   eyes: {
-
     pink: {
       base: '#ffd1dc',
       shadow: '#ffc0cb',
@@ -154,7 +152,8 @@ const colours = {
   bgColours: {
     blue: '#bae2f6',
     white: '#ffffff',
+    deepPink: '#FF1493',
   },
-};
+}
 
-export default colours;
+export default colours
