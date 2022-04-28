@@ -1,10 +1,10 @@
-import React from 'react';
-import colours from '../../../../colours';
+import React from 'react'
+import colours from '../../../../colours'
 
 const BgOutterCircle = () => {
-  const colour = colours.bgColours.white;
+  const colour = colours.bgColours.blue
 
-  return <circle cx="400" cy="400" r="400" fill={colour} />;
-};
+  return <rect x='60' y='60' width='700' height='900' fill={colour} />
+}
 
-export default BgOutterCircle;
+export default BgOutterCircle

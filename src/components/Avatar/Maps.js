@@ -1,25 +1,26 @@
-import * as AccessoriesStyles from './Parts/accessories';
-import * as BeardStyles from './Parts/beards';
-import * as EyebrowsStyles from './Parts/eyebrows';
-import * as EyesStyles from './Parts/eyes';
-import * as HairStyles from './Parts/hair';
-import * as MoustacheStyles from './Parts/moustaches';
-import * as MouthStyles from './Parts/mouths';
-import Empty from '../Empty/empty';
+import * as AccessoriesStyles from './Parts/accessories'
+import * as BeardStyles from './Parts/beards'
+import * as EyebrowsStyles from './Parts/eyebrows'
+import * as EyesStyles from './Parts/eyes'
+import * as HairStyles from './Parts/hair'
+import * as MoustacheStyles from './Parts/moustaches'
+import * as MouthStyles from './Parts/mouths'
+import Empty from '../Empty/empty'
 
 export const accessoriesMap = new Map([
   ['None', Empty],
   ['Glasses-0', AccessoriesStyles.Glasses_0],
   ['Glasses-1', AccessoriesStyles.Glasses_1],
   ['Glasses-2', AccessoriesStyles.Glasses_2],
-]);
+  ['Glasses-3', AccessoriesStyles.Glasses_3],
+])
 
 export const beardMap = new Map([
   ['None', Empty],
   ['Beard-0', BeardStyles.Beard_0],
   ['Beard-1', BeardStyles.Beard_1],
   ['Beard-2', BeardStyles.Beard_2],
-]);
+])
 
 export const eyebrowsMap = new Map([
   ['None', Empty],
@@ -39,7 +40,7 @@ export const eyebrowsMap = new Map([
   ['Eyebrows-13', EyebrowsStyles.Eyebrows_13],
   ['Eyebrows-14', EyebrowsStyles.Eyebrows_14],
   ['Eyebrows-15', EyebrowsStyles.Eyebrows_15],
-]);
+])
 
 export const eyesMap = new Map([
   ['Eyes-0', EyesStyles.Eyes_0],
@@ -57,7 +58,7 @@ export const eyesMap = new Map([
   ['Eyes-12', EyesStyles.Eyes_12],
   ['Eyes-13', EyesStyles.Eyes_13],
   ['Eyes-14', EyesStyles.Eyes_14],
-]);
+])
 
 export const hairMap = new Map([
   ['None', Empty],
@@ -82,7 +83,7 @@ export const hairMap = new Map([
   ['Hair-18', HairStyles.Hair_18],
   ['Hair-19', HairStyles.Hair_19],
   ['Hair-20', HairStyles.Hair_20],
-]);
+])
 
 export const moustacheMap = new Map([
   ['None', Empty],
@@ -92,7 +93,7 @@ export const moustacheMap = new Map([
   ['Moustache-3', MoustacheStyles.Moustache_3],
   ['Moustache-4', MoustacheStyles.Moustache_4],
   ['Moustache-5', MoustacheStyles.Moustache_5],
-]);
+])
 
 export const mouthMap = new Map([
   ['Mouth-0', MouthStyles.Mouth_0],
@@ -110,4 +111,4 @@ export const mouthMap = new Map([
   ['Mouth-12', MouthStyles.Mouth_12],
   ['Mouth-13', MouthStyles.Mouth_13],
   ['Mouth-14', MouthStyles.Mouth_14],
-]);
+])

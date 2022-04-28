@@ -124,6 +124,14 @@ const colours = {
       base: '#eeb2ab',
       shadow: '#e88e80',
     },
+    orange: {
+      base: '#D96E27',
+      shadow: '#C65C22',
+    },
+    brown: {
+      base: '#7a4b2f',
+      shadow: '#673f28',
+    },
     red: {
       base: '#DD3E3E',
       shadow: '#C43333',
@@ -153,6 +161,13 @@ const colours = {
     blue: '#bae2f6',
     white: '#ffffff',
     deepPink: '#FF1493',
+    magenta: '#FF00FF',
+    cornflowerBlue: '#6495ED',
+    springGreen: '#00FF7F',
+    green: '#008000',
+    orangeRed: '#FF4500',
+    tomato: '#FF6347',
+    gold: '#FFD700',
   },
 }
 
