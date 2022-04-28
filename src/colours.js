@@ -168,6 +168,7 @@ const colours = {
     orangeRed: '#FF4500',
     tomato: '#FF6347',
     gold: '#FFD700',
+    navyBlue: '#060A39',
   },
 }
 
