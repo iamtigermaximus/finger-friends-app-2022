@@ -1,14 +1,14 @@
 <p align="center" >
-  <img alt="Thumb Friends Avatars" src="demo/avatars.gif" />
+  <img alt="Finger Friends Avatars" src="demo/avatars.gif" />
 </p>
 
-# Thumb Friends Fun avatars for everyone
+# Finger Friends Fun avatars for everyone
 
 Create your own thumb friend avatar by combining different facial expressions, there are millions of possible combinations.
 
 ## Demo
 
-The app is live at [https://thumb-friends.netlify.app/](https://thumb-friends.netlify.app/)!
+
 
 ### Purpose
 
