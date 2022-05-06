@@ -4,6 +4,10 @@ const colours = {
       base: '#fdd2b2',
       shadow: '#f3ab98',
     },
+    pink: {
+      base: '#ffd1dc',
+      shadow: '#ffc0cb',
+    },
     creme: {
       base: '#FBBA88',
       shadow: '#e79a85',
@@ -42,9 +46,21 @@ const colours = {
       base: '#FEDC58',
       shadow: '#EDBF2E',
     },
+    green: {
+      base: '#77a577',
+      shadow: '#73b17a',
+    },
     orange: {
       base: '#D96E27',
       shadow: '#C65C22',
+    },
+    red: {
+      base: '#DD3E3E',
+      shadow: '#C43333',
+    },
+    purple: {
+      base: '#B256A1',
+      shadow: '#9C4490',
     },
     brown: {
       base: '#7a4b2f',
