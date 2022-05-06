@@ -13,6 +13,11 @@ export const accessoriesMap = new Map([
   ['Glasses-1', AccessoriesStyles.Glasses_1],
   ['Glasses-2', AccessoriesStyles.Glasses_2],
   ['Glasses-3', AccessoriesStyles.Glasses_3],
+  ['Glasses-4', AccessoriesStyles.Glasses_4],
+  ['Glasses-5', AccessoriesStyles.Glasses_5],
+  ['Glasses-6', AccessoriesStyles.Glasses_6],
+  ['Glasses-7', AccessoriesStyles.Glasses_7],
+  ['Glasses-8', AccessoriesStyles.Glasses_8],
 ])
 
 export const beardMap = new Map([

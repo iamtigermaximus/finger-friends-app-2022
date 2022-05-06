@@ -1,8 +1,8 @@
 import React from 'react'
 
 /* eslint-disable max-len,no-tabs,camelcase */
-const Glasses_0 = () => {
-  const colour0 = '#010101'
+const Glasses_4 = () => {
+  const colour0 = '#C43333'
 
   return (
     <>
@@ -22,4 +22,4 @@ const Glasses_0 = () => {
   )
 }
 
-export default Glasses_0
+export default Glasses_4
